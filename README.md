@@ -18,7 +18,8 @@
 
 <br>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmall1997&layout=compact&hide=html" alt="prashantmall1997" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmall1997&layout=compact&hide=html" alt="prashantmall1997" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantmall1997&show_icons=true" alt="prashantmall1997" /></p>
 </div>
 
