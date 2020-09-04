@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Web Development <br>
+
+😄 Skills:
+  - Python
+  - Data Structures
+  - HTML
+  - CSS
+  - Bootstrap
+  - Javascript
+  - Node.js
+  - EJS
+  - REST API
+  - DBMS
+  - Oracle SQL
+  - Mongo DB
+  - Git & GitHub
+
 <!--
 **prashantmall1997/prashantmall1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
