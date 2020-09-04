@@ -3,7 +3,6 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantmall1997" alt="prashantmall1997" /> </p>
-<br>
 
 - 🌱 I’m currently learning **Web Development**
 
