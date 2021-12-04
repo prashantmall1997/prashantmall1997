@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/prashantmall97" target="blank"><img src="https://img.shields.io/twitter/follow/prashantmall97?logo=twitter&style=for-the-badge" alt="prashantmall97" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Application](https://github.com/prashantmall1997/chat_application)
+- 🔭 I’m currently working on [sit_scheduler_v2](https://github.com/prashantmall1997/sit_scheduler_v2)
 
-- 🌱 I’m currently learning **JAVA, Advanced Web Development & Advanced Data Structures**
+- 🌱 I’m currently learning **DBMS, Advanced Web Development & HCI**
 
 - 👨‍💻 All of my projects are available at [https://prashantmall1997.github.io/](https://prashantmall1997.github.io/)
 
